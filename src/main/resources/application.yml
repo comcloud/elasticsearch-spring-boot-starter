@@ -1,0 +1,8 @@
+elasticsearch:
+  host: 192.168.31.75
+  httpPort: 9200
+  tcpPort: 9300
+  clusterName: codesheep
+  docFields: title,filecontent
+  auth:
+    enable: false
